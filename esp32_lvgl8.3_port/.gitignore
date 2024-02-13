@@ -1,0 +1,5 @@
+build
+GUI/backup/
+GUI/cache/
+GUI/autosave/
+.vscode/
