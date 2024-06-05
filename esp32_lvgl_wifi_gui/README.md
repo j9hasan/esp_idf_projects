@@ -1,2 +1,1 @@
-display driver ili9341
-touch driver xpt2046
+this code demonstrate how to configure wifi credentials dynamically using lvgl graphics library

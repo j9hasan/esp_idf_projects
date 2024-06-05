@@ -1,9 +1,6 @@
-# WiFi station example
+# WiFi static IP
 
-(See the README.md file in the upper level 'examples' directory for more information about examples.)
-
-
-## How to use example
+The esp32 request the router for an static IP. Upon getting it, it prints the IP
 
 ### Configure the project
 

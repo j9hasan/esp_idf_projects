@@ -4,6 +4,4 @@ This example is based on `esp_https_ota` component's APIs.
 
 ## Configuration
 
-Refer README.md in the parent directory for setup details.
-
-Example also supports binding to specific interface (either "Ethernet" or "WiFi Station"), which will allow firmware upgrade to happen through specific interface (in case multiple networking interfaces are enabled). Please see more on this through example configuration in `idf.py menuconfig -> Example Configuration -> Support firmware upgrade bind specificied interface->Choose OTA data bind interface`.
+Creatae a http server from the given python script from or any other method. run the put your firmware on the server, copy the firmware link and paste it after CONFIG_EXAMPLE_FIRMWARE_UPGRADE_URL.

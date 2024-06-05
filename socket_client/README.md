@@ -1,5 +1,6 @@
 Socket Client
 
+The esp32 will connect to a socket server.
 ## How to use
 
 Clone the repo, update the server IP and PORT then build using esp idf.
